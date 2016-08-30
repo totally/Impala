@@ -1,0 +1,6 @@
+[submodule "Impala"]
+	path = Impala
+	url = git@github.com:totally/Impala.git
+[submodule "impala-setup"]
+	path = impala-setup
+	url = git@github.com:totally/impala-setup.git
